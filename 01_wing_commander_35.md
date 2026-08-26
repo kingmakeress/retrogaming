@@ -2,7 +2,7 @@
 
 Article from [Serpentor's Lair](https://serpentorslair.com/wing-commander-celebrating-35-years-at-the-edge-of-computing/) by [kingmakeress](https://x.com/kingmakeress).
 
-Images from [Wing Commander CIC](https://www.wcnews.com) and from [LaunchBox](https://gamesdb.launchbox-app.com/games/images/29433-wing-commander-the-kilrathi-saga).
+Images from [Wing Commander CIC](https://www.wcnews.com).
 
 Thanks to [LOAF](https://bsky.app/profile/banditloaf.wcnews.com/post/3mamxgk55i225) for the information.
 
@@ -16,9 +16,7 @@ The immersion begins just as you click the start button, whereas numerous innova
 
 Wing Commander was the beginning of a charming real world saga where the successive game installments closely reflected the rapid technological advancements in computing throughout the 1990s. The journey from the top notch graphics of Wing Commander I and II to the cutscenes of Wing Commander III, IV, and Prophecy starring legends like Malcolm McDowell and Mark Hamill parallels the big push for more CPU power and more memory, the advent of VGA and SVGA, and the progressive establishment of the Sound Blaster as the de facto gaming standard. Already since its first installment, the Wing Commander series has always pushed the edge. Yes, there was an EGA version (really, I checked!). Yes, sound was optional. Still the truth is that Wing Commander I is best enjoyed with VGA and Roland on a 386 powered PC.
 
-![Safely back to Tiger's Claw](https://images.launchbox-app.com/f9c76668-33d3-4a86-95ad-c82c42eda796.jpg "Safely back to Tiger's Claw")
-
-Outside your fighter's cokpit you can enjoy the Wing Commander novels exploring not only various campaigns of the Terran-Kilrathi war, but also the formulation of the Terran Confederation itself shaped by an earlier, dark war with the pilgrims. Of course there is the 1999 film starring Freddie Prinze Jr. and Matthew Lillard just before their iconic Scooby Do appearances as Maverick and Maniac respectively, the impressive Saffron Burrows as Angel, and the veteran David Warner (yes, there are four lights!) as Admiral Tolwyn.
+Outside your fighter's cockpit you can enjoy the Wing Commander novels exploring not only various campaigns of the Terran-Kilrathi war, but also the formulation of the Terran Confederation itself shaped by an earlier, dark war with the pilgrims. Of course there is the 1999 film starring Freddie Prinze Jr. and Matthew Lillard just before their iconic Scooby Do appearances as Maverick and Maniac respectively, the impressive Saffron Burrows as Angel, and the veteran David Warner (yes, there are four lights!) as Admiral Tolwyn.
 
 ![Bonjour Angel!](https://www.wcnews.com/wcpedia/images/WC1-Angel.png "Bonjour Angel!")
 
