@@ -1,4 +1,4 @@
-#  Repository retrogaming
+#  Repository _retrogaming_
 
 ##  Description
 Articles about retro gaming by kingmakeress
