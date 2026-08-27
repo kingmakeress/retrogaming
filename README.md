@@ -8,6 +8,6 @@ Articles about retro gaming by kingmakeress
 *  **privateer:** [Published](https://serpentorslair.com/privateer-another-view-on-the-wing-commander-universe/) on Serpentor's Lair (20.Mar.2026).
 *  **photos**: A folder with photos I found on the Internet about retro gaming.
 
-Regarding the **photos** directory, the naming pattern for the images is: <venue>_<retrieval date>_<image topic>
+Regarding the **photos** directory, the naming pattern for the images is: \<venue\>_\<retrieval date\>_\<image topic\>
 
 Credits go to the respective creators of the images. No AI images have been included (to the best of my knowledge).
