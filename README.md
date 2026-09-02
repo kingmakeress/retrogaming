@@ -1,7 +1,7 @@
 #  Repository _retrogaming_
 
 ##  Description
-Articles about retro gaming by kingmakeress
+Articles about retro gaming by _kingmakeress_
 
 ##  Contents
 *  **wing_commander_35:** [Published](https://serpentorslair.com/wing-commander-celebrating-35-years-at-the-edge-of-computing/) on Serpentor's Lair (27.Sep.2025).
